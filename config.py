@@ -1,5 +1,5 @@
 AWS_REGION = "ap-south-1"
 
-BUCKET_NAME = "celebrity-images-ayush"
+BUCKET_NAME = "cYOUR_BUCKET_NAME"
 
 API_URL = "YOUR_API_URL"
