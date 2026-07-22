@@ -1,5 +1,16 @@
 celebrity_database = {
 
+    "Will Smith":{
+
+        "profession":"American Actor And Rapper",
+
+        "born":"1988",
+
+        "known_for":"Willard Carroll Smith Il is an American
+actor, rapper, and film producer",
+
+    },
+    
     "Virat Kohli":{
 
         "profession":"Indian Cricketer",
@@ -13,6 +24,7 @@ celebrity_database = {
         "emoji":"🏏"
 
     },
+    
 
     "Shah Rukh Khan":{
 
